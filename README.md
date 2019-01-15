@@ -1,4 +1,4 @@
-# Angular7
+# Angular7 (This project shows how to build a simple CRUD)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.3.
 
